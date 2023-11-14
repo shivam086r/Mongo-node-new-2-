@@ -1,7 +1,5 @@
 # Mongo-node-new-2-
 
-npm install
-
 docker-compose up
 
 ## Access MongoDB GUI (MongoDB Compass)
