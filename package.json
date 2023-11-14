@@ -8,6 +8,5 @@
   }
   "scripts": {
   "start": "node index.js",
-  "build": "npm run start"
 }
 }
