@@ -1,6 +1,7 @@
 # Mongo-node-new-2-
 
 sudo apt install nodejs npm
+
 docker-compose up
 
 ## Access MongoDB GUI (MongoDB Compass)
